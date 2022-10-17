@@ -5,7 +5,7 @@ editor: visual
 
 ## Overview
 
-This is the overview
+This is the overview for our project.
 
 ## Project Tasks
 
